@@ -303,10 +303,3 @@ void mousePressed() {
     playerMove++;
   }
 }
-
-//ALGORITHM
-//the program starts by intializing a 2d array to represent the 3x3 grid that tix tac toe is played on
-//a 3x3 grid is also outputted using a loop for the visual
-//user x will go first, user o goes second and it keeps going, for a total of 9 moves
-//the 8 win conditions are checked every time, and if one of them is met, the game will end
-//with every click of the mouse, depending on the positioning of the mouse, the value of the 2d array will change to represent the move made by either player o or player x
