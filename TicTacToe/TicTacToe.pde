@@ -1,7 +1,3 @@
-//Advanced Boolean Logic Games
-//Advanced Logic - Question 3 - Tic, Tac, Toe
-//Nihal Sahu
-
 PImage x, o;
 
 int xCoordinate = 0;
